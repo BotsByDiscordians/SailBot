@@ -1,0 +1,19 @@
+{
+  "name": "sailbotv4",
+  "version": "0.0.1",
+  "description": "SailBot V4",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetSailDev/SailBotV4.git"
+  },
+  "author": "delphinium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SetSailDev/SailBotV4/issues"
+  },
+  "homepage": "https://github.com/SetSailDev/SailBotV4#readme"
+}
