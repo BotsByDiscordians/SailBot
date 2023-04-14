@@ -2,7 +2,7 @@
     "developers": ["461206564569743375"],
     "client": {
         "id": "1096524129814986792",
-        "token": "MTA5NjUyNDEyOTgxNDk4Njc5Mg.GrSrXm.7vHHRERte-W4Cc_LA0xt2oDOgUYmS4oa4Wn4B4",
+        "token": "TOKEN",
         "intents": [
             "Guilds",
             "GuildMessages",
