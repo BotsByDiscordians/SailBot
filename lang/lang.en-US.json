@@ -190,7 +190,8 @@
         "chatCommands": {
             "help": "help",
             "info": "info",
-            "test": "test"
+            "test": "test",
+            "time": "time"
         },
         "userCommands": {
             "viewDateJoined": "View Date Joined"
