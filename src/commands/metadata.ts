@@ -50,6 +50,15 @@ export const ChatCommandMetadata: {
         dm_permission: true,
         default_member_permissions: undefined,
     },
+    TIME: {
+        type: ApplicationCommandType.ChatInput,
+        name: Lang.getRef('chatCommands.time', Language.Default),
+        name_localizations: Lang.getRefLocalizationMap('chatCommands.time'),
+        description: Lang.getRef('commandDescs.time', Language.Default),
+        description_localizations: Lang.getRefLocalizationMap('commandDescs.time'),
+        dm_permission: true,
+        default_member_permissions: undefined,
+    },
 };
 
 export const MessageCommandMetadata: {
