@@ -54,6 +54,9 @@
             "test": {
                 "description": "Test command works!"
             },
+            "time": {
+                "description": "The current time is {{TIME}}!"
+            },
             "viewDateJoined": {
                 "description": "{{TARGET}} joined on {{DATE}}!"
             },
@@ -205,7 +208,8 @@
         "commandDescs": {
             "help": "Find help or contact support.",
             "info": "View bot info.",
-            "test": "Run the test command."
+            "test": "Run the test command.",
+            "time": "View the current time."
         },
         "argDescs": {
             "helpOption": "Option.",
