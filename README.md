@@ -20,6 +20,8 @@ Starts a ShardManager which will run multiple bot shards at once
 3. PM2 Mode
 Type `npm run start:pm2`
 This mode is similar to Manager Mode but uses PM2 instead of the built-in API (not API-v2, custom written API for sharding)
+> PM2 is quite simple, and will display help-ful information when launching using PM2
+![pm2demo](/imgs/pm2demo.png "PM2 Process Manager UI")
 
 # To-Do
 * Implement Full APIv2 into Bot
