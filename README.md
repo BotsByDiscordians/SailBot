@@ -3,10 +3,10 @@ Introducing, Sailbot v4.0
 This is the most likely final re-write of SB.
 The bot is written using TypeScript, and has a lot of head functionality that is not actually critical to SB.
 # Main Features
-Support for Running on Docker /
-Support for PM2 Deployment
-Written with ESM for compatibility
-Support Sharding + Clustering (Not Necessarily Required, but just there for safe-proofing)
+> Support for Running on Docker 
+> Support for PM2 Deployment
+> Written with ESM for compatibility
+> Support Sharding + Clustering (Not Necessarily Required, but just there for safe-proofing)
 
 # How to Run the Bot for Development
 SailBot V4 supports multiple run modes:
